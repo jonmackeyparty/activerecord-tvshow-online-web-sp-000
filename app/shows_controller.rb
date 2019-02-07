@@ -1,4 +1,4 @@
-  
-  def highest_rating
-    Show.maximum(:rating)
-  end
+
+def highest_rating
+  Show.maximum(:rating)
+end
